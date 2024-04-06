@@ -1,0 +1,2 @@
+Hii myself pratik dwivedi.
+this a test file to count no of words in this file for codsoft c++ internship
